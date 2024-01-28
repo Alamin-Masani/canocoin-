@@ -1,0 +1,10 @@
+def cube_multiplied_thrice(number):
+    result = number ** 3
+    return result
+
+# Example usage:
+user_input = float(input("Enter a number: "))
+result = cube_multiplied_thrice(user_input)
+print(f"The cube of {user_input} multiplied by itself three times is: {result}")
+
+# assigment comming using your namw and ug number
